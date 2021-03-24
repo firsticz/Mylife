@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153467512613",
+    "project_id": "notificationmylife",
+    "storage_bucket": "notificationmylife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153467512613:android:66181172b6d979b7635ccc",
+        "android_client_info": {
+          "package_name": "com.Mylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153467512613-f71algk9at162r4mb7hqgenqf0p4kq1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCepWYV856eRHqlvTebaukoO0tZ3mBqSYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153467512613-f71algk9at162r4mb7hqgenqf0p4kq1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
